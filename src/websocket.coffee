@@ -28,7 +28,6 @@ class WebsocketAdapter extends Adapter
 exports.use = (robot) ->
   new WebsocketAdapter robot
 
-
 class WebsocketServer extends EventEmitter
   constructor: (port) ->
     @createServer port
