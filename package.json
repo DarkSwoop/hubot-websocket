@@ -1,0 +1,18 @@
+{
+  "name": "hubot-websocket",
+  "version": "0.1",
+  "author": "Roy van Kaathoven",
+  "keywords": [
+    "hubot",
+    "websocket",
+    "bot"
+  ],
+  "description": "Websocket Adapter for Hubot",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Rovak/hubot-websocket.git"
+  },
+  "dependencies": {
+    "ws": "0.4.27"
+  }
+}
